@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nagata03/learn-typescript/issues"
   },
-  "homepage": "https://github.com/nagata03/learn-typescript#readme"
+  "homepage": "https://github.com/nagata03/learn-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  }
 }
